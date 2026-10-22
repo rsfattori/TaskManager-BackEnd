@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"titulo": "Estudar React Native",
+		"descricao": "Revisar componentes, props e estados",
+		"status": "Concluída"
+	},
+	{
+		"id": 2,
+		"titulo": "Preparar o Checkpoint 01",
+		"descricao": "Organizar a estrutura inicial do projeto",
+		"status": "Concluída"
+	},
+	{
+		"id": 3,
+		"titulo": "Criar a Web API em PHP",
+		"descricao": "Retornar as tarefas em formato JSON",
+		"status": "Pendente"
+	},
+	{
+		"id": 4,
+		"titulo": "Integrar o app com a API",
+		"descricao": "Buscar as tarefas usando fetch, async e await",
+		"status": "Pendente"
+	},
+	{
+		"id": 5,
+		"titulo": "Preparar o Checkpoint 02",
+		"descricao": "Escrever a documentação da entrega",
+		"status": "Pendente"
+	}
+]
